@@ -11,10 +11,10 @@ There are two matlab scripts:
 
 
 Sample use:
-`
+```matlab
 % This will open the viewer on clip cordova1
 ccvLabeler('../cordova1/', 'labels.ccvl');
-`
+````
 
 This specific version has been used to label the lanes in the [Caltech Lanes Dataset](http://www.mohamedaly.info/datasets/caltech-lanes/).
 
