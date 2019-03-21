@@ -866,7 +866,7 @@ open(lPath, lFile);
         %get figure position
         fpos = get(hFig, 'Position');
         %re-position layout
-        posititionLayout(fpos);
+        positionLayout(fpos);
       end
       gH = h; gW = w;
       %clear labels handles
